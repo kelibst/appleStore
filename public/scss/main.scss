@@ -118,6 +118,7 @@ header {
     display: table-cell;
     width: 100%;
     overflow: hidden;
+    border-right: 1px solid #57616a;
   }
 
   &-link {
@@ -245,6 +246,10 @@ ul.piped.right > li > a {
 .piped {
   display: flex;
   padding: 0;
+}
+
+.navbar-li:hover {
+	background: #595959;
 }
 
 .piped.right > li {
