@@ -13,7 +13,7 @@ just a clone of an old archived ([apple](https://web.archive.org/web/20140301004
 
 ## Live Demo
 
-[Live Demo Link](https://raw.githack.com/kelibst/appleStore/tree/featured-branch/index.html)
+[Live Demo Link](https://raw.githack.com/kelibst/appleStore/featured-branch/index.html)
 
 ## Author
 
