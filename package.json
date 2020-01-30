@@ -1,0 +1,31 @@
+{
+  "name": "applestore",
+  "version": "1.0.0",
+  "description": "mimic an old apple web page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass public/scss/main.scss public/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelibst/appleStore.git"
+  },
+  "keywords": [
+    "html",
+    "and",
+    "css",
+    "gradient"
+  ],
+  "author": "kelibst",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kelibst/appleStore/issues"
+  },
+  "homepage": "https://github.com/kelibst/appleStore#readme",
+  "devDependencies": {
+    "node-sass": "^4.13.1",
+    "stylelint": "^13.0.0",
+    "stylelint-config-recommended": "^3.0.0"
+  }
+}
