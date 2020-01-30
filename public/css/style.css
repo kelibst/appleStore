@@ -177,9 +177,6 @@ input.navbar-search:focus {
   margin: 0 auto;
   display: flex; }
 
-ul.piped.right > li > a {
-  border-right: 1px solid gray; }
-
 .piped {
   display: flex;
   padding: 0; }
