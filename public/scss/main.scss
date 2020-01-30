@@ -5,8 +5,6 @@ body {
   color: #333;
   min-height: 830px;
   max-height: 1472px;
-  margin: 0 !important;
-  padding-top: 0 !important;
 }
 
 a {
@@ -249,7 +247,7 @@ ul.piped.right > li > a {
 }
 
 .navbar-li:hover {
-	background: #595959;
+  background: #595959;
 }
 
 .piped.right > li {
