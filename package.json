@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/kelibst/appleStore#readme",
   "devDependencies": {
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "stylelint": "^13.0.0",
     "stylelint-config-recommended": "^3.0.0"
   }
